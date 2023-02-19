@@ -1,4 +1,4 @@
-# HungryGhostGame
+# HungryGhostGame  Brief Description
 
 Brief Description
 Hungry Ghost is a single player game in which user control the ghost and tries to eat as many food item as possible in given interval of time.
